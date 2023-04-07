@@ -8,7 +8,6 @@ To build and run this project, you need to have the following installed:
 - Java 8
 - Spring Boot
 - DataJPA
-- MySQL
 - Maven
 - MySQL Workbench
 
